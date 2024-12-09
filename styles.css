@@ -1,0 +1,8 @@
+.content-disguise {
+	color: rgba(154, 149, 149, 0.66);
+	--font-text-size: small;
+}
+.theme-dark .content-disguise {
+	color: rgba(177, 159, 159, 0.7);
+	--font-text-size: small;
+}
