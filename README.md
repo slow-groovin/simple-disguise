@@ -2,7 +2,11 @@
 
 ## Introduction
 Disguise/obscure/hide the content in a very simple way. Prevent your editing content from being seeing clearly too easily by others passing by in public spaces.
+
+
 ![intro.png](intro.png)
+
+
 ## Implementation Principle
 This feature is implemented using minimal code.  
 Modifying the styles of the editing area via CSS.
