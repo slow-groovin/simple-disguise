@@ -16,6 +16,7 @@ After installing and activating the plugin:
 Click the button in the sidebar to toggle between disguise mode and normal mode.
 
 ## Not Supported:
+- Reading view.
 - Command-based control.
 - Defining styles in settings (styles can only be adjusted directly by editing the `styles.css` file in the plugin directory).
 
@@ -30,5 +31,6 @@ Click the button in the sidebar to toggle between disguise mode and normal mode.
 安装并开启插件后, 点击侧边栏中的按钮, 控制伪装/恢复正常
 
 ## 不支持:
+- 阅读视图
 - 命令方式控制
 - 在setting中定义样式(只能直接修改插件目录中的styles.css进行样式调整)

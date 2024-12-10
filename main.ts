@@ -4,7 +4,7 @@ import { App, ItemView,WorkspaceTabs,WorkspaceLeaf ,Editor, MarkdownView, Markdo
 
 
 
-export default class MyPlugin extends Plugin {
+export default class SimpleDisguisePlugin extends Plugin {
 	private styleEnabled: boolean = false;
 	async onload() {
 		console.log('onload')
