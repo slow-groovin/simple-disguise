@@ -1,4 +1,4 @@
-# Sample disguise / 简单伪装
+# Simple disguise / 简单伪装
 
 ## Introduction
 Disguise/obscure/hide the content in a very simple way. Prevent your editing content from being seeing clearly too easily by others passing by in public spaces.
